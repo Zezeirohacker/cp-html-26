@@ -6,19 +6,13 @@
     align-self: flex-end;
     
 }
-h1{
+.all{
     color: green;
 }
 table{
     color: yellow;
     background-color: green;
 }
-
-::backdrop {
-    background-image: url("https://tse3.mm.bing.net/th/id/OIP.sPbjbz90llCmi9GoZkjIvQHaEo?r=0&rs=1&pid=ImgDetMain&o=7&rm=3");
-    background-size: fill;
-}
-
 
 body{
     background-image: url("https://tse3.mm.bing.net/th/id/OIP.sPbjbz90llCmi9GoZkjIvQHaEo?r=0&rs=1&pid=ImgDetMain&o=7&rm=3");
