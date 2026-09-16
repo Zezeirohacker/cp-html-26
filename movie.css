@@ -1,0 +1,12 @@
+.sinopse{
+    background-image: url("https://upload.wikimedia.org/wikipedia/en/6/66/A_Minecraft_Movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original");
+}
+.image{
+    align-self: flex-end;
+    
+}
+.all{
+    background-color: gainsboro;
+    background-image: url("https://i.imgflip.com/a5qrjf.jpg");
+    background-size: fill;
+}
